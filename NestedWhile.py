@@ -39,7 +39,7 @@ while i <= 5:
         j += 1
     i += 1
     print()
-print("----------5--------------")
+print("----------user--------------")
 a = int(input("Enter The Number:"))
 i = 1
 while i <= a:
